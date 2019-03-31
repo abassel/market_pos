@@ -1,0 +1,6 @@
+{
+    "BOGO-Coffee": "MultiBuyOffer('BOGO-Coffee', 'CF1', 1, 1)",
+    "APPL3": "ThresholdOffer('APPL3', 'AP1', 3, '0.25')",
+    "APOM": "DependentDiscountOffer('APOM', 'AP1', 'OM1', Decimal(0.5))",
+    "CHMK": "DependentDiscountOffer('CHMK', 'MK1', 'CH1', 1.0, limit=1)"
+}

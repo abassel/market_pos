@@ -1,0 +1,12 @@
+env/
+venv/
+.venv3/
+
+**/*.pyc
+.idea/
+.cache/
+**/.DS_Store
+.DS_Store
+
+**/.coverage
+**/htmlcov

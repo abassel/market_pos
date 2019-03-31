@@ -1,0 +1,33 @@
+
+# Python virtual environments
+venv/
+venv3/
+env/
+.venv/
+.venv3/
+.env/
+
+
+# Python bytecode and coverage
+**/*.pyc
+**/.coverage
+**/htmlcov
+**/.pytest_cache
+
+
+# Git files
+.git
+.gitignore
+
+
+# Docker files
+Dockerfile
+.dockerignore
+
+
+# Pycharm
+.idea
+
+
+# Mac OS X
+.DS_Store
